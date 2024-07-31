@@ -1,0 +1,40 @@
+Content Planning Task
+Description:
+Research the latest trends and key news on the topic: {topic}.
+Identify the target audience and their interests.
+Create a detailed content outline (introduction, key points, conclusion).
+Include SEO keywords and relevant data or sources.
+Describe images to be included in the article.
+Ensure the plan aligns with content guidelines and professional tone.
+Expected Output: A comprehensive content plan in markdown format.
+Research Task
+Description:
+Conduct thorough web searches on the topic: {topic}.
+Provide detailed and referenced domain knowledge.
+List relevant open-source images with descriptions and attributions.
+Filter out controversial, racial, or harmful content.
+Summarize findings in a clear and organized manner.
+Maintain adherence to content guidelines and professional tone.
+Expected Output: A comprehensive knowledge document in markdown format.
+
+
+
+Writing Task
+
+Description:
+Use the content plan and research to write the article on {topic}.
+Incorporate SEO keywords naturally.
+Structure the article with engaging sections and a clear narrative flow.
+Use images appropriately and provide proper attribution.
+Ensure the article is ready for publication with proper references and citations.
+Maintain adherence to content guidelines and professional tone.
+Expected Output: A well-written article in markdown format, ready for publication.
+Editing Task
+
+Description:
+Proofread the article on {topic} for grammatical accuracy and alignment with the brand’s voice.
+Ensure the article follows journalistic best practices.
+Provide balanced viewpoints and avoid major controversial topics or opinions.
+Confirm images and quotes are properly attributed.
+Finalize the article for publication.
+Expected Output: A polished and error-free article in markdown format.
